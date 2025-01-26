@@ -35,5 +35,5 @@ Este projeto realiza uma análise aprofundada da atividade inibitória de compos
 - Sugestões incluem expandir o conjunto de dados e explorar técnicas não-lineares como redes neurais.
 
 
-## 📚 Referências
+##  Referências
 - Andrada, M. F., et al. "Application of k-means clustering, linear discriminant analysis and multivariate linear regression for the development of a predictive QSAR model on 5-lipoxygenase inhibitors." *Chemometrics and Intelligent Laboratory Systems* (2015).
